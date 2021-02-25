@@ -1,0 +1,13 @@
+C:\Users\Expert\source\repos\dsbot controller\Bot\bin\Debug\netcoreapp3.1\Bot.exe
+C:\Users\Expert\source\repos\dsbot controller\Bot\obj\Debug\netcoreapp3.1\Bot.csprojAssemblyReference.cache
+C:\Users\Expert\source\repos\dsbot controller\Bot\obj\Debug\netcoreapp3.1\Bot.AssemblyInfoInputs.cache
+C:\Users\Expert\source\repos\dsbot controller\Bot\obj\Debug\netcoreapp3.1\Bot.AssemblyInfo.cs
+C:\Users\Expert\source\repos\dsbot controller\Bot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\Expert\source\repos\dsbot controller\Bot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\Expert\source\repos\dsbot controller\Bot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\Expert\source\repos\dsbot controller\Bot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\Expert\source\repos\dsbot controller\Bot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\Expert\source\repos\dsbot controller\Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Expert\source\repos\dsbot controller\Bot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Expert\source\repos\dsbot controller\Bot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\Expert\source\repos\dsbot controller\Bot\obj\Debug\netcoreapp3.1\Bot.csproj.CopyComplete

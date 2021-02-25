@@ -1,0 +1,35 @@
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\dsbot controller.exe.config
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\dsbot controller.exe
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\dsbot controller.pdb
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Discord.Net.Core.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\System.Interactive.Async.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\System.Linq.Async.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Discord.Net.Core.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\System.Interactive.Async.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\System.Linq.Async.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\obj\Debug\dsbot controller.csprojAssemblyReference.cache
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\obj\Debug\dsbot_controller.Form1.resources
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\obj\Debug\dsbot_controller.Properties.Resources.resources
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\obj\Debug\dsbot controller.csproj.GenerateResource.cache
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\obj\Debug\dsbot controller.csproj.CoreCompileInputs.cache
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\obj\Debug\dsbot controller.csproj.CopyComplete
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\obj\Debug\dsbot controller.exe
+C:\Users\Expert\source\repos\dsbot controller\dsbot controller\obj\Debug\dsbot controller.pdb
